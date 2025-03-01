@@ -1,6 +1,8 @@
 ## Hi there 👋
-1st year Innopolia University student
+1st year Innopolis University student
+
 17yo
+
 I love coding!
 <!--
 **AyazN/AyazN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
