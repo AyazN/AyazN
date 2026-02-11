@@ -1,7 +1,7 @@
 ## Hi there 👋
-1st year Innopolis University student
+2nd year Innopolis University student
 
-17yo
+18yo
 
 I love coding!
 <!--
